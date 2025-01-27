@@ -1,6 +1,4 @@
-oneplusone :: IO ()
-oneplusone = do
-    putStrLn "1+1=2"
+oneplusone = putStrLn "1+1=2"
 
 main = do
     putStrLn "Welcome to the programme. Please enter your name"
